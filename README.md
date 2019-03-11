@@ -1,3 +1,20 @@
+# Double tap bug
+
+## Steps to reproduce
+
+ - on iPhone `iOS11.*`, `iOS12.*`  
+ - install the PWA app to homescreen [add pwa to homescreen](https://superpwa.com/doc/test-pwa-ios-devices/)  
+ - open the app from home - standalone mode
+ - tap the input to open the keyboard
+ - close keyboard
+ - double tap on any free space
+ 
+ ### Behaviour: white panel arives from bottom of the display (probably the 'space' for keyboard)
+
+ ### Expected behaviour: zoom or nothing depending on meta tags.
+
+
+# React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
