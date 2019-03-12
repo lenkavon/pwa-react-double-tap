@@ -13,6 +13,7 @@
 
  ### Expected behaviour: zoom or nothing depending on meta tags.
 
+Repository is deployed on [firebase](https://pwa-double-tap-bug.firebaseapp.com)
 
 # React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
